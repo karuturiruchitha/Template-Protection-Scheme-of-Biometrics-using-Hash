@@ -93,8 +93,8 @@ Overall, the proposed methodology for TPS involves a series of steps, from biome
 TPS is significant because it enhances privacy and security, improves accuracy and reliability, ensures compliance with regulations, is interoperable and scalable, and provides a better user experience for biometric authentication systems.
 
 1.9	LIMITATION OF THE WORK
-•	There is high complexity with this project.
-•	The effectiveness and efficiency can be improved by using Hashing which makes out the existing model even faster.
+There is high complexity with this project.
+The effectiveness and efficiency can be improved by using Hashing which makes out the existing model even faster.
 1.10	ORGANISATION OF THE REPORT
 	The remainder of the chapter is laid out as follows.
 
