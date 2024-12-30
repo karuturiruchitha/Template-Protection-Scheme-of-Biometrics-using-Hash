@@ -1,7 +1,5 @@
 # Template-Protection-Scheme-of-Biometrics-using-Hash
 Template protection is a crucial aspect of biometric security, and one effective approach involves the use of hash functions.
-
-
 ![Hashing matches_page-0001 (1)](https://github.com/user-attachments/assets/1dbf779e-3393-4674-9247-df17e9f33571)  ----- flowcahrt of hash protection implementation------
 
 Multimodal biometric authentication systems were proven to be efficient and given better security and accuracy in many online transaction systems and applications when compared to conventional security procedures. Multimodal biometrics were applied to various authentication and recognition services where high security is a major concern. But keeping the privacy of enrolled subjects is the biggest challenge for biometric security researchers. To solve the challenges in privacy preservations of enrolled subjects, numerous template privacy protection schemes were proposed. Features generated from the Multimodal biometrics samples were protected by converting them into an unintelligible format using encryption techniques so that hackers were not able to compromise the Multimodal biometrics template easily. This way of protecting the enrolled subjects was called a template protection scheme.
